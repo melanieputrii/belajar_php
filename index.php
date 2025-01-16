@@ -25,8 +25,6 @@ echo " total pendapatan adalah sebesar " . $total ;
 echo "<br>" ;
 echo " gajibersih seluruh pendapatan adalah sebesar " . $gajibersih;
 
-
-
 ?/
    </h1>
 
